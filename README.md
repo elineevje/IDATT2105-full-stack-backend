@@ -1,2 +1,2 @@
 # IDATT2105 Full-stack applikasjonsutvikling
-### Assignment 4 backend
+#### Backend of assignment 4 in the course IDATT2105
